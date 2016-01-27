@@ -1,3 +1,7 @@
+;; An early version of the model
+;; Relative differences between number of ties and strength of ties.
+;;
+;;
 globals 
 [ 
   clock  
